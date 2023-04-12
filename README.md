@@ -8,4 +8,6 @@ funny script i made to solve simple ret2win buffer overflow ctf challenges, it p
 
 Example:
 
-`challs.randomwebsite.com 1234 d3adb33f True vuln`
+```
+python script.py pythonchalls.randomwebsite.com 1234 d3adb33f True vuln
+```
